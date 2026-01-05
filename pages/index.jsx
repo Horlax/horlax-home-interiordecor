@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="bg-gray-50 text-gray-900">
+    <div className="bg-neutral-100 text-gray-900">
       {/* Header */}
       <header className="fixed top-0 w-full bg-white shadow z-50">
         <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
@@ -8,11 +8,11 @@ export default function Home() {
             Horlax Home Interior & Exterior
           </h1>
           <a
-            href="https://wa.me/2347052855300"
-            className="bg-black text-white px-4 py-2 rounded"
-          >
-            WhatsApp
-          </a>
+  href="https://wa.me/2347052855300"
+  className="bg-neutral-900 hover:bg-neutral-800 text-white px-4 py-2 rounded transition-colors duration-300"
+>
+  WhatsApp
+</a>
         </div>
       </header>
 
