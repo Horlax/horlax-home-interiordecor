@@ -126,6 +126,12 @@ export default function Home() {
           </p>
         </div>
       </footer>
+      <a
+  href="https://wa.me/2347052855300"
+  className="fixed bottom-6 right-6 bg-green-500 text-white px-5 py-3 rounded-full shadow-lg font-semibold z-50"
+>
+  WhatsApp
+</a>
     </div>
   );
 }
