@@ -1,3 +1,5 @@
+import './globals.css';
+
 export const metadata = {
   title: "Horlax Home Interior & Exterior Design",
   description: "Premium furniture, interior and exterior design services across Nigeria.",
