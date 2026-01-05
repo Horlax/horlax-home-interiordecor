@@ -86,18 +86,10 @@ export default function Home() {
           </h3>
 
           <div className="grid md:grid-cols-3 gap-6">
-            <img
-              src="https://images.unsplash.com/photo-1586023492125-27b2c045efd7"
-              className="rounded shadow"
-            />
-            <img
-              src="https://images.unsplash.com/photo-1505693314127-50b0b27a9df9"
-              className="rounded shadow"
-            />
-            <img
-              src="https://images.unsplash.com/photo-1582582494700-1b99e3b27f1f"
-              className="rounded shadow"
-            />
+            <img src="/images/bed.jpg" className="rounded shadow" />
+<img src="/images/wardrobe.jpg" className="rounded shadow" />
+<img src="/images/sofa.jpg" className="rounded shadow" />
+<img src="/images/dining-table.jpg" className="rounded shadow" />
           </div>
         </div>
       </section>
